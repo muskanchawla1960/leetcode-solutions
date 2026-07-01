@@ -23,3 +23,15 @@ I'm using this repository to keep track of my DSA practice and document my solut
 - Become a better software engineer
 
 Thanks for stopping by!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/muskanchawla1960/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/muskanchawla1960/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+<!---LeetCode Topics End-->
